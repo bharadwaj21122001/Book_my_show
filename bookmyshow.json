@@ -1,0 +1,177 @@
+[
+    {
+        "title": "Inception",
+        "seats": 63,
+        "duration": 212
+    },
+    {
+        "title": "The Dark Knight",
+        "seats": 169,
+        "duration": 175
+    },
+    {
+        "title": "Interstellar",
+        "seats": 66,
+        "duration": 154
+    },
+    {
+        "title": "Titanic",
+        "seats": 190,
+        "duration": 157
+    },
+    {
+        "title": "Avatar",
+        "seats": 196,
+        "duration": 236
+    },
+    {
+        "title": "The Matrix",
+        "seats": 169,
+        "duration": 185
+    },
+    {
+        "title": "Gladiator",
+        "seats": 187,
+        "duration": 234
+    },
+    {
+        "title": "Jurassic Park",
+        "seats": 157,
+        "duration": 145
+    },
+    {
+        "title": "Forrest Gump",
+        "seats": 170,
+        "duration": 187
+    },
+    {
+        "title": "The Lion King",
+        "seats": 66,
+        "duration": 130
+    },
+    {
+        "title": "The Godfather",
+        "seats": 171,
+        "duration": 123
+    },
+    {
+        "title": "Pulp Fiction",
+        "seats": 199,
+        "duration": 230
+    },
+    {
+        "title": "Fight Club",
+        "seats": 96,
+        "duration": 215
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "seats": 131,
+        "duration": 142
+    },
+    {
+        "title": "The Lord of the Rings",
+        "seats": 66,
+        "duration": 193
+    },
+    {
+        "title": "Star Wars",
+        "seats": 105,
+        "duration": 155
+    },
+    {
+        "title": "Harry Potter",
+        "seats": 179,
+        "duration": 212
+    },
+    {
+        "title": "The Avengers",
+        "seats": 74,
+        "duration": 229
+    },
+    {
+        "title": "Black Panther",
+        "seats": 155,
+        "duration": 148
+    },
+    {
+        "title": "Frozen",
+        "seats": 190,
+        "duration": 214
+    },
+    {
+        "title": "Toy Story",
+        "seats": 97,
+        "duration": 163
+    },
+    {
+        "title": "Finding Nemo",
+        "seats": 143,
+        "duration": 189
+    },
+    {
+        "title": "The Incredibles",
+        "seats": 62,
+        "duration": 160
+    },
+    {
+        "title": "Up",
+        "seats": 183,
+        "duration": 137
+    },
+    {
+        "title": "Monsters Inc.",
+        "seats": 197,
+        "duration": 223
+    },
+    {
+        "title": "Coco",
+        "seats": 161,
+        "duration": 221
+    },
+    {
+        "title": "Moana",
+        "seats": 90,
+        "duration": 216
+    },
+    {
+        "title": "Zootopia",
+        "seats": 90,
+        "duration": 188
+    },
+    {
+        "title": "Inside Out",
+        "seats": 98,
+        "duration": 240
+    },
+    {
+        "title": "Tangled",
+        "seats": 101,
+        "duration": 167
+    },
+    {
+        "title": "Shrek",
+        "seats": 74,
+        "duration": 177
+    },
+    {
+        "title": "Madagascar",
+        "seats": 79,
+        "duration": 144
+    },
+    {
+        "title": "Kung Fu Panda",
+        "seats": 159,
+        "duration": 200
+    },
+    {
+        "title": "Despicable Me",
+        "seats": 72,
+        "duration": 122
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "seats": 197,
+        "duration": 238
+    }
+]
