@@ -4,7 +4,7 @@ bookings = []
 seats = []
 def initialize_movies():
     movies = []
-    f = open("C:/Users/acer/OneDrive/Desktop/CSPP/bookmyshow.json")
+    f = open("C:/Users/acer/OneDrive/Documents/MSIT Notes/CSPP-End-Remedial/Book_my_show/bookmyshow.json")
     data = json.load(f)
     for i in data:
         movies.append(i)
